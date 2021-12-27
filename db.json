@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "email": "dehan@gmail.com",
+      "firstName": "Dehan",
+      "lastName": "Amarasinghe",
+      "mobileNumber": 712548745,
+      "address": "232/C/1, Perera Rd, Ganemulla"
+    },
+    {
+      "id": 3,
+      "email": "malitha@gmail.com",
+      "firstName": "Malitha",
+      "lastName": "Amarasinghe",
+      "mobileNumber": 712548857,
+      "address": "de/C, Gampaha"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
